@@ -1,4 +1,3 @@
 # Utilizzo Librerie
-Descrizione per l'uso delle seguenti librerie Promax:
-- [Promax.DB](https://github.com/LucaPromax/UtilizzoLibrerie/wiki/Libreria-Promax.DB)
-- [Promax.Serialization](https://github.com/LucaPromax/UtilizzoLibrerie/wiki/Libreria-Promax.Serialization)
+In questa documentazione verranno descritte le modalità per l'uso di diverse librerie Promax di utilità.
+La documentazione è descritta nella sezion [Wiki](https://github.com/LucaPromax/UtilizzoLibrerie/wiki)
